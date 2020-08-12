@@ -1,0 +1,16 @@
+
+
+.navIcon{
+    line-height: 0.4rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navIcon img{
+    height: 100%;
+}
+.nav ul {
+    line-height: 0.3rem;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 0.1rem;
+}

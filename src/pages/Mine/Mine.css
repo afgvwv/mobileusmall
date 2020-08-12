@@ -1,0 +1,83 @@
+
+.mine .header{
+    margin: 0;
+}
+.mine .header p{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    line-height: 3.2rem;
+    background-color: #FF9900 ;
+}
+.mine .header p span{
+    font-size: 0.22rem;
+     color: #fff;
+     background-color: #FF9900 ;  
+}
+.people{
+    margin-top: 0.6rem;
+    text-align: center;
+}
+.people img{
+    width: 1.2rem;
+    height: 1.2rem;
+    border-radius: 0.6rem;
+}
+.box{
+    box-sizing: border-box;
+    padding: 0.2rem;
+}
+.box .line{
+    height: 0.1rem;
+    background-color: #FAFAFA;
+}
+.store{
+    height: 0.5rem;
+    
+}
+.store img{
+    vertical-align: middle;
+    width: 0.16rem;
+    height: 0.15rem;
+    margin-right: 0.15rem;
+}
+
+.box .order{
+    height: 0.6rem; 
+}
+.box .order p{
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.2rem;
+  line-height: 0.6rem;
+}
+.order p span{
+    font-size: 0.2rem;
+    color: #B6B6BD;
+}
+
+.mine .goods{
+    border-top: 1px solid black;
+    height:0.8rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.mine .goods li {
+    text-align: center;
+   width: 20%;
+}
+.mine .goods img{
+    margin-top: 0.2rem;
+    width: 0.42rem;
+    height: 0.32rem;
+}
+.mine .goods .sale{
+    padding: 0;
+    font-size: 0.14rem;
+    text-align: center;
+    width: 0.65rem;
+}
+.last{
+    font-size: 0.2rem;
+    margin: 0.3rem 0 0 0.2rem;
+}

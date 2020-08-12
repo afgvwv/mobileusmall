@@ -1,0 +1,23 @@
+{
+  "id": "1997463",
+  "name": "mobilefonts",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6366918",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "9122162",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    }
+  ]
+}

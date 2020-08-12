@@ -1,0 +1,119 @@
+.shopcar{
+    position: relative;
+    overflow: hidden;
+}
+.shopcar .top{
+    line-height:0.4rem;
+    font-size: 0.2rem;
+    color: #fff;
+    background: #FF9900;
+}
+.shop-item{
+    width: 105%;
+    box-sizing: border-box;
+    padding: 0.2rem 0.1rem 0 0.1rem;
+    overflow: hidden;
+}
+
+.box1{
+    height: calc(100vh - 170px);
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.shop-item li{
+     float: left;
+     margin-right: 0.1rem;
+}
+.shop-item-good img{
+    width: 0.7rem;
+    height: 0.7rem;
+}
+
+.shop-item-icon .img2{
+    margin-top:0.42rem ;
+     width: 0.18rem;
+     height: 0.18rem;
+}
+.shop-item-info p{
+    margin-bottom: 0.1rem;
+}
+.shop-item-info .count span{
+    display: inline-block;
+    width: 0.4rem;
+    height: 0.3rem;
+    border: 1px solid #999;
+    line-height: 0.3rem;
+    text-align: center;
+}
+.shop-item-info .count .btn{
+    border-right: none;
+}
+.shop-item-info .price{
+    text-align: center;
+}
+
+.total .toal-price{
+    margin-top: 0.2rem;
+}
+.shop-item .inner{
+    float: left;
+}
+.shop-item .del {
+    float: right;
+}
+.shop-item .del span{
+    text-align: center;
+    display: inline-block;
+     width: 0.5rem;
+     height: 0.8rem;
+     line-height: 0.8rem;
+     font-size: 0.16rem;
+     color: #fff;
+     background-color: #FF9900;
+     
+}
+.shop-item .innerdel{
+    transition: 0.3s;
+      margin-right: -0.5rem;
+}
+.shop-footer{
+    width: 100%;
+    height: 0.7rem;
+    position: fixed;
+    left: 0;
+    bottom: 0.6rem;
+    overflow: hidden;
+   background-color: #fff;
+   border: 1px solid #ccc;
+}
+.shop-footer .all{
+    margin-left: 0.4rem;
+}
+.shop-footer .all,.edit {
+    margin-right: 0.3rem;
+    float: left;
+    margin-top: 0.2rem;
+}
+.shop-footer .goods-count{
+    float: right;
+}
+.shop-footer li img{
+    margin-left: 0.1rem;
+    width: 0.18rem;
+    height: 0.18rem;
+}
+.shop-footer .goods-count span{
+    display: inline-block;
+    width: 1.4rem;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    font-size:0.22rem;
+    text-align: center;
+    color: #fff;
+    background-color: #FF9900;
+}
+.totalPrice{
+    float: left;
+    margin-top: 0.15rem;
+}

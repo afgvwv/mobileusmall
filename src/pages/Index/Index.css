@@ -1,0 +1,40 @@
+
+
+.index footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 0.6rem;
+    background: #FFFFFF;
+    display: flex;
+    
+}
+.index footer a{
+    flex: 1;
+    text-align: center;
+    line-height: 0.6rem;
+    font-size: 0.16rem;
+    color: #000000;
+    text-decoration: none;
+}
+.index footer img{
+    width: 25%;
+    height:0.15rem;
+}
+.index footer .select{
+    color: orange;
+}
+
+p{
+    margin: 0;
+    line-height: 0.25rem;
+   
+}
+.p1{
+    margin-top: 0.05rem;
+}
+.p2{
+    margin-bottom: 0.05rem;
+}
+

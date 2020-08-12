@@ -1,0 +1,31 @@
+.goods{
+   margin-bottom: 0.2rem;
+}
+
+.list img{
+    width: 1.4rem;
+    height: 1.2rem;
+}
+.goods{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.goods p{
+    width: 1.7rem;
+    font-size: 0.21rem;
+    margin-bottom: 0.2rem;
+}
+.goods .p2{
+    color: #E23838;
+    margin-bottom: 0;
+}
+.goods .p3{
+   height: 0.5rem;
+   width: 1rem;
+   line-height: 0.5rem;
+   text-align: center;
+   border-radius: 0.1rem;
+   background: #FF9900;
+  color: #fff;
+}

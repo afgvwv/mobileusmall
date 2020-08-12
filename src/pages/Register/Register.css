@@ -1,0 +1,38 @@
+
+.top{
+    height:0.4rem;
+    display: flex;
+    justify-content: space-around;
+    background: #FF9900;
+    line-height: 0.4rem;
+     
+}
+.top div{
+    color: #fff;
+    background: #FF9900;
+    
+}
+.top .back{
+    color: #fff;
+}
+
+input{
+    border: 1px solid #FF9900;
+   
+}
+.content{
+    box-sizing: border-box;
+    padding: 0 0.4rem;
+    margin-top: 1.2rem;
+}
+.content  p{
+    margin-bottom: 0.5rem;
+}
+.submit{
+    width: 2.9rem;
+    height: 0.4rem;
+  text-align: center;
+  background: #FF9900;
+  color: #fff;
+  border-radius: 0.1rem;
+}

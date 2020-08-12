@@ -1,0 +1,42 @@
+.cateDetail .top span{
+    font-size: 0.22rem;
+    color: #fff;
+    background: #FF9900;
+}
+
+.cateDetail ul img{
+    width: 1.4rem ;
+    height: 1.4rem;
+    margin: 0.2rem 0 0.3rem 0.2rem;
+}
+
+.cateDetail li{
+    margin-top: 0.05rem;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cateDetail li span{
+    margin-top: 0.1rem;
+}
+.cateDetail li p{
+    margin-top: 0.1rem;
+    width: 1.7rem;
+    font-size: 0.21rem;
+    margin-bottom: 0.2rem;
+}
+.cateDetail li .p2{
+    margin-top: 0.1rem;
+    color: #E23838;
+    margin-bottom: 0;
+}
+.cateDetail li .p3{
+   height: 0.5rem;
+   width: 1rem;
+   line-height: 0.5rem;
+   text-align: center;
+   border-radius: 0.1rem;
+   background: #FF9900;
+  color: #fff;
+}
